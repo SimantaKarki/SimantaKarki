@@ -1,4 +1,4 @@
-### Hi I am Simanta🙂
+<h2 align = "center"> Hi, I am Simanta🙂</h2>
 
 <!--
 **SimantaKarki/SimantaKarki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
