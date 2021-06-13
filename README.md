@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I am Simanta🙂
 
 <!--
 **SimantaKarki/SimantaKarki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on myself.
+- 🌱 I’m currently learning python.
+- 👯 I’m looking to collaborate on machine learning.
+- 💬 Ask me about algorithms.
+- 📫 How to reach me: karkisim33@gmail.com
+- ⚡ Fun fact: To travel, to experience and learn: that is to live.
